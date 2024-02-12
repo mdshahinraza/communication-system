@@ -47,4 +47,4 @@ plot(t,mm);
 xlabel('Time');
 ylabel('Amplitude');
 title('Modulated Wave');
-%10 30 5 4
+%input 10 30 5 4
